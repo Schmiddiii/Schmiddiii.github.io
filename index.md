@@ -5,15 +5,23 @@ If you know the domain of this website, you probably already know my real name, 
 
 I am currently studying computer science at the university in Passau.
 
-# What I am working on.
+# :telescope: I’m currently working on ...
 
-I currently have the following projects:
-
-- [Tubefeeder](https://schmiddiii.github.io/Tubefeeder/): A Youtube-Client made for the Pinephone.
-- [qute-cookie-block](https://github.com/Schmiddiii/qute-cookie-block): Blocking cookies for [qutebrowser](https://qutebrowser.org/).
+[![Tubefeeder](https://github-readme-stats.vercel.app/api/pin/?username=schmiddiii&repo=Tubefeeder)](https://github.com/schmiddiii/Tubefeeder)
+[![qute-cookie-block](https://github-readme-stats.vercel.app/api/pin/?username=schmiddiii&repo=qute-cookie-block)](https://github.com/schmiddiii/qute-cookie-block)
 
 Note that these repositories may not have had commits for a few weeks or months as I do not work on these during university. 
 
-# Contact
+# :seedling: I’m currently learning ...
 
-Please contact me on my [Github](https://github.com/Schmiddiii) page.
+- [Rust](https://www.rust-lang.org/)
+- [Relm](https://github.com/antoyo/relm)
+
+# 📫 How to reach me: ...
+
+Contact me using the email adress visible on [Github](https://github.com/Schmiddiii)
+
+# :chart_with_upwards_trend: Stats
+![My stats](https://github-readme-stats.vercel.app/api?username=schmiddiii&show_icons=true&include_all_commits=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=schmiddiii&layout=compact)
