@@ -1,4 +1,4 @@
-# WhoAmI
+# 👤 WhoAmI
 
 Hi, I am `Schmiddi`.
 If you know the domain of this website, you probably already know my real name, so I won't mention it.
