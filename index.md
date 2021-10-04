@@ -7,7 +7,7 @@ I am currently studying computer science at the university in Passau.
 
 # <img src="https://github.com/images/icons/emoji/telescope.png" height="36"> I’m currently working on ...
 
-[![Tubefeeder](https://github-readme-stats.vercel.app/api/pin/?username=schmiddiii&repo=Tubefeeder)](https://github.com/schmiddiii/Tubefeeder)
+[![Tubefeeder](https://github-readme-stats.vercel.app/api/pin/?username=Tubefeeder&repo=Tubefeeder)](https://github.com/Tubefeeder/Tubefeeder)
 [![qute-cookie-block](https://github-readme-stats.vercel.app/api/pin/?username=schmiddiii&repo=qute-cookie-block)](https://github.com/schmiddiii/qute-cookie-block)
 
 Note that these repositories may not have had commits for a few weeks or months as I do not work on these during university. 
